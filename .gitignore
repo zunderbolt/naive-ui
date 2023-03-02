@@ -19,7 +19,6 @@ coverage
 /package
 *.tsbuildinfo
 pnpm-lock.yaml
-web-types.json
 ~*
 .pnpm-debug.log
 .history
